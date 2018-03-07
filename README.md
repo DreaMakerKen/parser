@@ -1,4 +1,4 @@
-# praser
+# parser
 某一堂程式課的期末作業
 輸入CFG 與 輸入 inputstring 以建立 LL(1)parser table 判斷是否合乎文法並印出規則
 
